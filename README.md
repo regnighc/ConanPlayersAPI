@@ -10,9 +10,9 @@ ConanPlayersAPI is a lightweight, efficient API wrapper designed to manage and r
 ## API Endpoint
 The primary endpoint for accessing player data follows this pattern:
 
-/players/IPADDRESS/PORT
+/players/IPADDRESS/QUERYPORT
 
-Replace `IPADDRESS` and `PORT` with the actual address and port of your server. This design allows you to target specific servers for their player lists.
+Replace `IPADDRESS` and `QUERYPORT` with the actual address and port of your server. This design allows you to target specific servers for their player lists.
 
 ## Getting Started
 
@@ -30,4 +30,5 @@ Replace `IPADDRESS` and `PORT` with the actual address and port of your server. 
 
 3. docker run -d -p 5000:5000 conanplayersapi
 
-![image](https://github.com/user-attachments/assets/731b2a0a-c9d1-40fc-89dc-c8e13e7d71bd)
+![image](https://github.com/user-attachments/assets/de186e32-3feb-4696-9c79-30984c263a4d)
+
