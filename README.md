@@ -23,7 +23,7 @@ Replace `IPADDRESS` and `QUERYPORT` with the actual address and port of your ser
 ### Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/ConanPlayersAPI.git
+   git clone https://github.com/regnighc/ConanPlayersAPI.git
    cd ConanPlayersAPI
    
 2. docker build -t conanplayersapi .
